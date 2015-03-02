@@ -20,6 +20,7 @@
 int main(void)
 {
     printf("hello world1\n");
+    printf("hello world2\n");
     return 0;
 }
 
